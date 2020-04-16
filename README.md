@@ -1,6 +1,8 @@
 # Managing Repositories
 
-Hopefully everyone has had some practice by now making copies of repositories on GitHub (forking) and on your local computer or HPC (cloning), but recently I've gotten several questions about the steps to submit assignment files so I wanted to walk through the process from start to finish. Please also see the attached slides for a graphical overview.
+[See slides here!](https://github.com/IntroToCompBioLSU-Spr20/ManagingRepositories/blob/master/repositories.pdf)
+
+Hopefully everyone has had some practice by now making copies of repositories on GitHub (forking) and on your local computer or HPC (cloning), but recently I've gotten several questions about the steps to submit assignment files so I wanted to walk through the process from start to finish. Please also see the slides in this repository for a graphical overview.
 
 (1) Each repository will start by being available as part of the class organization on GitHub:
 

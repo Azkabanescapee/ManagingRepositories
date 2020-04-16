@@ -10,11 +10,11 @@ https://github.com/IntroToCompBioLSU-Spr20
 
 (3) To make a local copy of the repository on your computer or your HPC account, we need to make a clone. It's best to clone _your_ fork of the repository, since you own it and can send (push) new files and edits back there later. To make a clone of your fork, go to the GitHub page for your fork, then click the green "Clone or download" button. After the pop-up box appears, click the clipboard icon to copy the path to your fork. The path should be of this form:
 
-https://github.com/<YourUserName>/<RepoName>.git
+https://github.com/\<YourUserName>\/<RepoName>.git
 
 Open Terminal on your computer or HPC, navigate to the location where you want to copy the repository, then run
 
-git clone https://github.com/<YourUserName>/<RepoName>.git
+git clone https://github.com\/<YourUserName>\/<RepoName>.git
 
 <YourUserName> and <RepoName> will need to be changed to the names appropriate for your fork.
 
